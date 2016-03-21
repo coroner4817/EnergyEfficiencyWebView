@@ -2,6 +2,8 @@
 
 EnergyEfficiencyWebView is an Android WebView API which can provide flexibility for developer to reconstruct the web page of computer version to the mobile version and add what they want to show to the user.  
 
+![WebPage](https://github.com/coroner4817/EnergyEfficiencyWebView/raw/master/demo/demogif.gif)
+
 ## Requirements
   Android SDK 15+
 
