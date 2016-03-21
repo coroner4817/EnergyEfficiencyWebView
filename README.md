@@ -83,6 +83,9 @@ EnergyEfficiencyWebView is an Android WebView API which can provide flexibility 
   * For some big web site, the replacecss and js might not work properly
   * Add into the Maven center for easier usage
   
+## Reference
+  * [AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)  
+  
 ## This is final project for UCLA CS211 in 2016 Winter
   
   
