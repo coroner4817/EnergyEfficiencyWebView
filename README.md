@@ -6,6 +6,8 @@ EnergyEfficiencyWebView is an Android WebView API which can provide flexibility 
 <img src="https://github.com/coroner4817/EnergyEfficiencyWebView/raw/master/demo/demogif.gif" width="220" height="400"/>
 </centering>
 
+[Full demo video](https://www.youtube.com/watch?v=DGU7mRwvgM8)
+
 ## Requirements
   Android SDK 15+
 
